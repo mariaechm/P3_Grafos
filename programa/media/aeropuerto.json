@@ -1,0 +1,86 @@
+[
+  {
+      "idAeropuerto": 1,
+      "nombre": "Aeropuerto Internacional José Joaquín de Olmedo",
+      "longitud": -79.883125,
+      "latitud": -2.157419
+  },
+  {
+      "idAeropuerto": 2,
+      "nombre": "Aeropuerto Internacional Mariscal Sucre",
+      "longitud": -78.357553,
+      "latitud": -0.129167
+  },
+  {
+      "idAeropuerto": 3,
+      "nombre": "Aeropuerto Internacional Mariscal Lamar",
+      "longitud": -78.984389,
+      "latitud": -2.889167
+  },
+  {
+      "idAeropuerto": 4,
+      "nombre": "Aeropuerto Internacional Eloy Alfaro",
+      "longitud": -80.678889,
+      "latitud": -0.946389
+  },
+  {
+      "idAeropuerto": 5,
+      "nombre": "Aeropuerto Coronel Carlos Concha Torres",
+      "longitud": -79.616389,
+      "latitud": 0.978611
+  },
+  {
+      "idAeropuerto": 6,
+      "nombre": "Aeropuerto Ciudad de Catamayo",
+      "longitud": -79.371944,
+      "latitud": -3.999722
+  },
+  {
+      "idAeropuerto": 7,
+      "nombre": "Aeropuerto General Ulpiano Paez",
+      "longitud": -80.988889,
+      "latitud": -2.204722
+  },
+  {
+      "idAeropuerto": 8,
+      "nombre": "Aeropuerto Edmundo Carvajal",
+      "longitud": -78.121389,
+      "latitud": -2.299167
+  },
+  {
+      "idAeropuerto": 9,
+      "nombre": "Aeropuerto Francisco de Orellana",
+      "longitud": -76.986667,
+      "latitud": -0.462778
+  },
+  {
+      "idAeropuerto": 10,
+      "nombre": "Aeropuerto Río Amazonas",
+      "longitud": -78.048333,
+      "latitud": -1.505833
+  },
+  {
+      "idAeropuerto": 11,
+      "nombre": "Aeropuerto Nacional San Cristóbal",
+      "longitud": -89.616944,
+      "latitud": -0.910278
+  },
+  {
+      "idAeropuerto": 12,
+      "nombre": "Aeropuerto Baltra",
+      "longitud": -90.439167,
+      "latitud": -0.453333
+  },
+  {
+      "idAeropuerto": 13,
+      "nombre": "Aeropuerto General Rivadeneira",
+      "longitud": -79.633333,
+      "latitud": 0.966667
+  },
+  {
+      "idAeropuerto": 14,
+      "nombre": "Aeropuerto Lago Agrio",
+      "longitud": -76.887222,
+      "latitud": 0.093056
+  }
+]
