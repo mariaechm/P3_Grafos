@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.rest</groupId>
-    <artifactId>repaso</artifactId>
+    <artifactId>repasoP1</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>repaso</name>
+    <name>repasoP1</name>
 
     <dependencyManagement>
         <dependencies>
